@@ -1,1 +1,1 @@
-Projeto de recriação da página do Netflix, usando HTML, CSS e Jquery. 
+Projeto que recria a página do Netflix, usando HTML, CSS e Jquery. 
